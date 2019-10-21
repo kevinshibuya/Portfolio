@@ -1,0 +1,11 @@
+{
+  "name": "2_Portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kevinshibuya/portfolio",
+  "author": "sadkevin <kevinshibuya@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yall-js": "^3.1.6"
+  }
+}

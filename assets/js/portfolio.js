@@ -15,6 +15,12 @@ sal({
     once: false
 });
 
+document.addEventListener('DOMContentLoaded', function() {
+    yall({
+        observeChanges: true,
+    });
+});
+
 // const targets = document.querySelectorAll('img');
 
 // const lazyLoad = target => {
